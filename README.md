@@ -1,6 +1,6 @@
 # Facial Expression Dataset
 
-# About Dataset
+## About Dataset
 AffectNet was Introduced by Mollahosseini et al. in AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild - http://mohammadmahoor.com/affectnet/
 
 AffectNet is a large facial expression dataset with around 0.4 million images manually labeled for the presence of eight (neutral, happy, angry, sad, fear, surprise, disgust, contempt) facial expressions along with the intensity of valence and arousal. It classifies the facial expressions due to their affect on counterpart.
